@@ -3,10 +3,10 @@
 # Project Name
 
 ## Team Members
+  - Nicole Edoziem - Team Lead & Programmer
   - Karam Hack - Programmer
   - Xandria Bramble - Programmer 
-  - Nicole Edoziem - Programmer
-
+  
 ## Purpose
 
 ## Target User
