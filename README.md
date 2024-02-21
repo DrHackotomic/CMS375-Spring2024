@@ -1,13 +1,13 @@
 # CMS375-Spring2024
 
 
-
 # Team name: Team Triad
 
 ## Team Members
+  - Nicole Edoziem - Team Lead & Programmer
   - Karam Hack - Programmer & Designer
   - Xandria Bramble - Programmer & Designer
-  - Nicole Edoziem - Team lead & Programmer
+  
 
 # ABSTRACT
   ## Project Name: 
@@ -20,6 +20,6 @@ The purpose of our event management system is to make the life of event organize
 Everyone
 
 ## Data Used 
-For the time being, we're thinking of using dummy data. If possible, we could also obtain a real world events information list from the Rollins IT depatment but that is to be determined.
+For the time being, we're thinking of using dummy data. If possible, we could also obtain a real-world events information list from the Rollins IT depatment but that is to be determined.
 
 
