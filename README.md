@@ -12,7 +12,7 @@
 ## ABSTRACT
   # Project Name: Eventique Harmony
 
-## Purpose - 
+## Purpose 
 The purpose of our event management system is to make the life of event organizers a whole lot easier. It’s a one-stop shop for keeping track of who's coming, where it's happening, and what's going on. By putting everything in one place — registrations, venues, and schedules — we cut down on the headache of flipping through files or juggling different apps. It's like having a personal assistant that keeps everything organized, so organizers can focus on the fun parts of event planning. For attendees, it means less confusion and more enjoying the event. Simply put, it’s about making events smooth sailing for everyone involved.
 
 ## Target User - Everyone
