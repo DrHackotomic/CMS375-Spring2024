@@ -9,7 +9,7 @@
   - Xandria Bramble - Programmer & Designer
   
 
-# ABSTRACT
+# Abstract
   ## Project Name: 
   Eventique Harmony
 
