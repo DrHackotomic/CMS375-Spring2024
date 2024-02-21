@@ -5,7 +5,7 @@
 ## Team Members
   - Karam Hack - Programmer
   - Xandria Bramble - Programmer 
-  - Nicole Edoziem - Team Lead & Programmer
+  - Nicole Edoziem - Programmer
 
 ## Purpose
 
