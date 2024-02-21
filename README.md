@@ -3,9 +3,9 @@
 # Project Name
 
 ## Team Members
-  - Karam Hack
-  - Xandria Bramble
-  - Nicole Edoziem
+  - Karam Hack - Programmer
+  - Xandria Bramble - Programmer 
+  - Nicole Edoziem - Team Lead & Programmer
 
 ## Purpose
 
