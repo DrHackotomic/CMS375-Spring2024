@@ -7,7 +7,7 @@ Contributed: Karam Hack
 // Database connection
 $servername = "localhost";
 $username = "root";
-$password = "";
+$password = "0698416";
 $dbname = "EventiqueHarmony";
 
 try {
@@ -53,6 +53,7 @@ function generateUniqueEventId() {
     <meta charset="UTF-8">
     <title>Create Event</title>
     <link rel="stylesheet" href="style.css">
+
 </head>
 <body>
     <div class="container">
@@ -68,6 +69,9 @@ function generateUniqueEventId() {
             <div><input type="text" name="location_id" placeholder="Location ID"></div>
             <div><input type="submit" value="Create Event"></div>
         </form>
+
+        <div><input type= "submit" onclick="location.href='attendee_page.php'" value="Return to Home Page"></div>
+
         <?php if (!empty($message)): ?>
             <p><?php echo $message; ?></p>
         <?php endif; ?>
